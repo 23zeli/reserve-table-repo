@@ -1,13 +1,13 @@
 import Nav from "./Nav"
+import Logo from'./Nav/Company.jsx'
 
 function Header () {
-    // const logoImage = "./images/Logo.svg"
 
     return(
-        <div>
-            <img src="./images/lemon dessert.jpg" alt="Little Lemon" />
+        <header>
+            <Logo />
             <Nav />
-        </div>
+        </header>
 
     )
 }

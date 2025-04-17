@@ -5,7 +5,7 @@ function Home () {
 
     return(
         <>
-            <h1>We are a family run Mediterranean restaurant.</h1>
+            <h1>Little Lemon is a family-owned Mediterranean restaurant, focused on traditional recipes with a modern twist.</h1>
         </>
 
     )

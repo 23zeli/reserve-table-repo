@@ -3,7 +3,7 @@
 function Footer () {
 
     return(
-        < div
+        < footer
             className="Footer" 
             style={{ backgroundColor: "#18181b", display: "flex", justifyContent: "center",}}
         >
@@ -16,7 +16,7 @@ function Footer () {
             >
                 Copyright &copy;2025
             </p>
-        </div>
+        </footer>
 
     )
 }
