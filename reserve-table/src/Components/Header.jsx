@@ -1,11 +1,10 @@
 import Nav from "./Nav"
-import Logo from'./Nav/Company.jsx'
 
 function Header () {
 
     return(
         <header>
-            <Logo />
+            <img src="./images/Logo.png" alt="logo" style={{width: "199px", height: "50px"}}/>
             <Nav />
         </header>
 
