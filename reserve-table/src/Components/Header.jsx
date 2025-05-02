@@ -3,9 +3,9 @@ import Nav from "./Nav"
 function Header () {
 
     return(
-        <header>
+        <header style={{ margin: "auto"}}>
             <img src="./images/Logo.png" alt="logo" style={{width: "199px", height: "50px"}}/>
-            <Nav />
+            {/* <Nav /> */}
         </header>
 
     )

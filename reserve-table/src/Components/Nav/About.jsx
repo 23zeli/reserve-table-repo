@@ -1,13 +1,12 @@
-import React from 'react';
+import React from 'react';``
 
 
 function About () {
 
     return(
-        <>
-            <h1>About Little Lemon</h1>
-        </>
-
+        <div>
+            <h1>about little lemon page</h1>
+        </div>
     )
 }
 

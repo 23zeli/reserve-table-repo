@@ -3,14 +3,15 @@
 function Footer () {
 
     return(
-        < footer
+        < footer 
             className="Footer" 
             style={{ 
                 backgroundColor: "#18181b", 
                 display: "flex", 
                 justifyContent: "center", 
                 width: "1440px", 
-                marginTop: "20px"
+                marginTop: "20px",
+                margin: "auto",
             }}
         >
             <p 

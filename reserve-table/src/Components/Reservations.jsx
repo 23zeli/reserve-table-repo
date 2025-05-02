@@ -1,13 +1,13 @@
 import React from 'react';
+import BookingPage from './BookingPage';
 
 
 function Reservations () {
 
     return(
-        <>
-           <h1>Occassion</h1> 
-        </>
-
+        <div>
+           <BookingPage />
+        </div>
     )
 }
 

@@ -1,12 +1,13 @@
 import React from 'react';
+import Specials from '../Specials';
 
 
 function OrderOnLine () {
 
     return(
-        <>
-           <h1>Here is our Online Menu</h1> 
-        </>
+        <div>
+          <Specials />
+        </div>
 
     )
 }
